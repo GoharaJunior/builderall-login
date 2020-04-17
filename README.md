@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://i.postimg.cc/0jyM9gLM/logo-png-color.png" />
+    <img alt="Builderall Logo" src="https://user-images.githubusercontent.com/57417305/79582613-61ace700-80a2-11ea-9e0d-ca1f1673c228.png" />
 </h1>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-    <img alt="Launchbase" src="https://media3.giphy.com/media/db4kKIGRFOPoso0xWs/giphy.gif" />
+    <img alt="Screen Gif" src="https://user-images.githubusercontent.com/57417305/79582708-81dca600-80a2-11ea-86c7-e7bfc678d1bc.gif" />
 </h1>
 
 
